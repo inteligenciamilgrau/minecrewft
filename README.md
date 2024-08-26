@@ -20,6 +20,19 @@ npm install mineflayer-pathfinder
 
 # Instruções
 
+Para rodar o programa:
+1) Inicie o Minecraft na versão Java.
+2) Inicie um novo mapa
+3) No menu escolha Open to LAN
+4) Selecione Game Mode: Criative
+5) Selecione Start LAN World e anote o número da porta escrito na tela (aperte T para mostrar as mensagens anteriores caso desapareça)
+6) Atualize o código minecrewft.js com o número da porta encontrado
+
+Na pasta com o código do MineCrewFT digite
+```
+ node minecrewft.js
+```
+
 Use os Comandos dentro do Chat:
 
 - Criar um novo bot
