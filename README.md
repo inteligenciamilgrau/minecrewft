@@ -17,6 +17,7 @@ npm install mineflayer
 ```
 npm install mineflayer-pathfinder
 ```
+Crie conta do ChatGpt e uma chave da OpenAI no site https://platform.openai.com/api-keys e atualize o arquivo .env com a chave criada!! (tem um .env_exemplo para usar como modelo) Não esqueça de cadastrar uma forma de pagamento no site da OpenAI e colocar créditos para funcionar!!
 
 # Instruções
 
